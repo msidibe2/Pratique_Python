@@ -1,2 +1,2 @@
 # Pratique_Python
-Depôt pour git training
+Depôt pratique Python 
