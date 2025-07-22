@@ -1,2 +1,2 @@
-# Pratique_VDE
+# Pratique_Python
 Depôt pour git training
